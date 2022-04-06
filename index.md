@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Hi everyone! My name is Sydney Wong. I am a third year computer science major at the University of California, San Diego.  
+Hi everyone! My name is **Sydney Wong**. I am a third year computer science major at the University of California, San Diego.  
 You can find my resume [here](https://drive.google.com/file/d/1xRS2dml8sRemE2mcKcz-2TmP8YZSYQHF/view?usp=sharing).
 
 ## **Reading**
