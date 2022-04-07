@@ -5,6 +5,9 @@
 Hi everyone! My name is **Sydney Wong**. I am a third year computer science major at the University of California, San Diego.  
 You can find my resume [here](https://drive.google.com/file/d/1xRS2dml8sRemE2mcKcz-2TmP8YZSYQHF/view?usp=sharing).
 
+[Lab Report 1](lab-report-1-week-2.html)  
+[Lab Report 1](https://sywong888.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 ## **Reading**
 
 I love to read in my free time! Some of my favorite books are:
